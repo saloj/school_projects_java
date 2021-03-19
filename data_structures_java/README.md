@@ -1,1 +1,1 @@
-# Misc. data structures in Java
+# Misc. data structures & algorithms in Java
