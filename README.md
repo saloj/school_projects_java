@@ -1,4 +1,4 @@
 # School projects/assignments in Java
 
 * CRUD (IO) with MVC
-* Misc. data structures
+* Misc. data structures & algorithms
