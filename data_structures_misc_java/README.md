@@ -1,3 +1,3 @@
 # Misc. data structures in Java
 
-## Some JavaFX as well
+* Some JavaFX as well
